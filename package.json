@@ -1,8 +1,7 @@
 {
-  "author" : "Camilo",
   "name": "chatrooms",
   "version": "0.0.1",
-  "description": "Servidor minimalista de chat",
+  "description": "Minimalist multi-room chat server",
   "dependencies": {
     "socket.io": "~0.9.6",
     "mime": "~1.2.7"
